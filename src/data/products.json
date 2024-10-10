@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "title": "Playstation 5",
+      "description": "1TB de armazenamento interno | 1 controle Dualsense 5",
+      "code": "PS5",
+      "price": 3456.99,
+      "status": true,
+      "stock": 3000,
+      "category": "Consoles",
+      "id": "a51c9d2e-4412-42bc-8eb1-d36c906d61ff"
+    },
+    {
+      "title": "Playstation 4",
+      "description": "500GB de armazenamento interno | 1 controle Dualsense 5",
+      "code": "PS4",
+      "price": 3456.99,
+      "status": true,
+      "stock": 1000,
+      "category": "Consoles",
+      "id": "ce89a723-85a5-480e-8852-1cd2349e5046"
+    }
+  ]
+}
